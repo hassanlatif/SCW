@@ -1,1 +1,1 @@
-# SCW
+# SCW Technical Excercise
